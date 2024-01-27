@@ -2,7 +2,6 @@
 title = "Even More Bacon"
 date = "2024-01-27T09:43:47-07:00"
 author = "Me"
-cover = "img/old-town.jpg"
 description = ""
 +++
 
