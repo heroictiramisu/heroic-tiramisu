@@ -1,5 +1,5 @@
 +++
-title = "Even More Bacon"
+title = "Even More Bacon, Now With Continuous Deployment!"
 date = "2024-01-27T09:43:47-07:00"
 author = "Me"
 description = ""
