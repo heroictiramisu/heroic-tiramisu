@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://heroictiramisu.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
