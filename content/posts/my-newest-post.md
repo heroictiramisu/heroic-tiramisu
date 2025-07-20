@@ -1,7 +1,12 @@
 +++
 title = "My Newest Post"
-date = "2023-01-16T09:43:47-07:00"
+date = "2025-07-03T19:43:47-07:00"
 author = "Me"
 cover = "img/old-town.jpg"
-description = ""
+tags = ["hugo", "customization", "themes"]
+draft = false
 +++
+
+{{< tip >}}
+Always carry extra water when walking around Albuquerque!
+{{< /tip >}}
